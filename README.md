@@ -170,5 +170,5 @@ See the `LICENSE` file for details.
 
 ## 🌐 Connect
 
-- GitHub: [yourusername](https://github.com/Dhakshin2007)
+- GitHub: [Dhakshin Kotha](https://github.com/Dhakshin2007)
 - Project Demo: coming soon...
