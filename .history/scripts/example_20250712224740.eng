@@ -1,0 +1,23 @@
+Let name be "Dhakshin"
+Let age be 17
+Let score be 12
+
+Print "Name: " and name
+Print "Age: " and age
+
+Add 3 to score
+Multiply score by 2
+Subtract 1 from score
+Divide score by 2
+Print "Final score is: " and score
+
+If score is greater than 10, print "Good job!"
+If score is greater than 100, print "You broke the game!"
+
+Repeat 3 times: print "Repeating..."
+
+Define greet:
+  Print "Hello from greet"
+  Print "Hope you're doing awesome"
+
+Call greet

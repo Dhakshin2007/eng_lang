@@ -1,0 +1,34 @@
+Let name be "Dhakshin"
+Let age be 17
+Print "Name is" and name
+Print "Age is" and age
+
+Let a be 0
+While a is less than 3:
+  Print "In loop, a is" and a
+  Add 1 to a
+END
+
+List fruits: "apple", "banana"
+Add "grape" to fruits
+Print fruits at 2
+Length of fruits into count
+Print count
+
+For each fruit in fruits:
+  Print "Fruit:" and fruit
+END
+
+Ask "What is your favorite language?" into fav_lang
+Print "You said:" and fav_lang
+
+If age equals 17, print "You are 17 years old"
+If age is less than 18, print "You are underage"
+If age is greater than 10, print "You are older than 10"
+
+Define greet person:
+  Print "Hello" and person
+  Print "Welcome to EnglishLang"
+END
+
+Call greet with "Dhakshin"
