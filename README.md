@@ -170,5 +170,5 @@ See the `LICENSE` file for details.
 
 ## 🌐 Connect
 
-- GitHub: [yourusername](https://github.com/yourusername)
+- GitHub: [yourusername](https://github.com/Dhakshin2007)
 - Project Demo: coming soon...
